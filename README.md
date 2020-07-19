@@ -1,3 +1,4 @@
+[![Build Status](https://emanuelacu.visualstudio.com/Space%20Game%20-%20Web/_apis/build/status/CI%20build%20pipeline?branchName=master)](https://emanuelacu.visualstudio.com/Space%20Game%20-%20Web/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
